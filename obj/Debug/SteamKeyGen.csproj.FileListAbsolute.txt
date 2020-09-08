@@ -1,0 +1,8 @@
+C:\Users\cihan\Desktop\SteamKeyGen\obj\Debug\SteamKeyGen.csprojAssemblyReference.cache
+C:\Users\cihan\Desktop\SteamKeyGen\obj\Debug\SteamKeyGen.Resources.resources
+C:\Users\cihan\Desktop\SteamKeyGen\obj\Debug\SteamKeyGen.csproj.GenerateResource.cache
+C:\Users\cihan\Desktop\SteamKeyGen\obj\Debug\SteamKeyGen.csproj.CoreCompileInputs.cache
+C:\Users\cihan\Desktop\SteamKeyGen\bin\Debug\SteamKeyGen.exe
+C:\Users\cihan\Desktop\SteamKeyGen\bin\Debug\SteamKeyGen.pdb
+C:\Users\cihan\Desktop\SteamKeyGen\obj\Debug\SteamKeyGen.exe
+C:\Users\cihan\Desktop\SteamKeyGen\obj\Debug\SteamKeyGen.pdb
